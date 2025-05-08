@@ -4,7 +4,7 @@ Este projeto é uma aplicação Java que simula um atendimento de suporte técni
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Java 17+**
+- **Java 21**
 - **API da OpenAI**
 - **`HttpURLConnection`** para chamadas HTTP
 - **`BufferedReader`** para leitura da resposta da API
